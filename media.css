@@ -49,7 +49,17 @@
         margin-left: 50px;
        margin-left: 400px;
     }
-}
+    .lil{
+        display: block;
+       margin-left: 40%;
+       
+
+    }
+    .baner{
+        display: block;
+    }
+ }
+
 @media screen and (max-width: 840px) {
     .navbar{
         display: none;
@@ -72,6 +82,18 @@
     }
     .aaaa{
         display: block;
+        width: 80px;
+        transform: rotateX(25deg);
+    }
+    .nav2{
+        width: 300px;
+        display: flex;
+        margin-left: 20px;
+        padding-left: 20px;
+        margin-left: 20%;
+    }
+    .nonep{
+        display: none;
     }
 
 }
@@ -109,6 +131,15 @@
         font-size: 30px;
     
     }
+    .nav2{
+        width: 300px;
+        display: flex;
+        margin-left: 20px;
+        padding-left: 20px;
+    }
+    .nonep{
+        display: none;
+    }
 }
 @media screen and (max-width: 530px) {
     .kras{
@@ -144,6 +175,38 @@
         font-size: 20px;
     
     }
+    .nav2{
+        width: 300px;
+        display: flex;
+      
+
+        
+
+    }
+    .hambirger{
+        display: block;
+        
+        padding-top: 30px;
+        
+    }
+    .hambirger div{
+        width: 40px;
+        height: 3px;
+        background-color: #eee;
+        margin-top: 3px;
+        border-radius: 4px;
+       display: block;
+    }
+    .btn4{
+        width: 30px;
+        margin-left: px;
+        
+    }
+    .btn3{
+        width: 30px;
+        
+    }
+
 }
 @media screen and (max-width: 460px) {
     .ae{
@@ -174,7 +237,7 @@
         display: block;
         
         padding-top: 30px;
-        margin-left: 25%;
+        margin-left: 5%;
     }
     .hambirger div{
         width: 40px;
@@ -184,4 +247,35 @@
         border-radius: 4px;
        display: block;
     }
+    .hone{
+        display: block;
+        margin-left: 10%;
+        width: auto;
+        height: auto;
+    }
+    .baner{
+        display: block;
+    }
+    .nav2{
+        width: 300px;
+        display: flex;
+        margin-left: 20px;
+        padding-left: 20px;
+
+        
+    }
+    
+    .btn4{
+        width: 30px;
+        margin-left: 50px;
+        
+    }
+    .btn3{
+        width: 30px;
+        
+    }
+    .nonep{
+        display: block;
+    }
+    
 }
