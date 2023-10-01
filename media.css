@@ -277,5 +277,7 @@
     .nonep{
         display: block;
     }
-    
+    .foo{
+        margin-left: 30%;
+    }
 }

@@ -45,7 +45,8 @@
 
 }
 .aaa{
-   width: 80px;
+   width: 90px;
+   
     
 }
 .hone{
@@ -156,4 +157,81 @@
     
 }
 
+.foo{
+  margin-left: 44%;
+  margin-top: 6%;
+  transform: rotate(7deg);
+  padding: 12px;
+  width: 250px;
+  border-radius: 30px;
+  border: solid 2px rgb(255,44,50);
+  background: rgb(255,44,50);
+  font-size: 23px;
+  color: #fff;
+  font-weight: 800;
+  
+}
+.cheerss{
+   display: flex;
+   width: 100%;
+    margin-top: 30px;
+    gap: 6%;
+   overflow: auto;
+   
+     
+}
 
+
+.card3 img{
+    width: 80%;
+    height: 260px;
+    
+}
+.card1{
+    min-width: 200px;
+    height: 400px;
+    background: rgb(255,241,18);
+    border-radius: 20px;
+    
+}
+.pp{
+    width: 100px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 100px;
+
+}
+.ppp{
+    width: 80%;
+    height: 100px;
+    opacity: 0;
+    
+}
+
+.card1:hover .ppp{
+    opacity: 1;
+    display: block;
+    width: 80%;
+    height: 280px;
+    margin-top: 118px;
+    margin-left: 20px;
+}
+.card1:hover .pp{
+    opacity: 0;
+    display: none;
+}
+
+.card1:hover{
+    transform: scalex(1.5);
+    width: 350px;
+    
+}
+
+.card3{
+   min-width: 350px;
+    height: 400px;
+    background: rgb(255,44,50);
+    border-radius: 20px;
+    padding-top: 140px;
+    padding-left: 70px;
+}
