@@ -280,4 +280,72 @@
     .foo{
         margin-left: 30%;
     }
+    .cheerss{
+        display: flex;
+        width: 100%;
+         margin-top: 30px;
+         gap: 10%;
+        overflow: auto;
+        
+          
+     }
+     
+     
+     .card3 img{
+         width: 80%;
+         height: 260px;
+         
+     }
+     .card1{
+         min-width: 100px;
+         height: 200px;
+         background: rgb(255,241,18);
+         border-radius: 20px;
+         
+     }
+     .pp{
+         width: 50px;
+         height: 100px;
+         margin-left: 25px;
+         margin-top: 50px;
+     
+     }
+     .ppp{
+         width: 80%;
+         height: 50px;
+         opacity: 0;
+         
+     }
+     
+     .card1:hover .ppp{
+         opacity: 1;
+         display: block;
+         width: 80%;
+         height: 140px;
+         margin-top: 60px;
+         margin-left: 10px;
+     }
+     .card1:hover .pp{
+         opacity: 0;
+         display: none;
+     }
+     
+     .card1:hover{
+         transform: scalex(1.5);
+         width: 200px;
+         
+     }
+     
+     .card3{
+        min-width: 100px;
+         height: 200px;
+         background: rgb(255,44,50);
+         border-radius: 20px;
+         padding-top: 75px;
+         padding-left: 5px;
+     }
+     .card3 img{
+        width: 100%;
+        height: 120px;
+     }
 }
