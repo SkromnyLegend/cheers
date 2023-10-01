@@ -435,6 +435,7 @@ border-radius: 10px;
     gap: 10%;
     margin-top: 100px;
     background: rgb(54,149,79);
+    border: solid 2px rgb(54,149,79) ;
 }
 .doda{
     width: 150px;
@@ -442,6 +443,7 @@ border-radius: 10px;
     margin-left: 45%;
     margin-top: 5%;
     background: rgb(54,149,79);
+    border: solid 2px rgb(54,149,79) ;
 
    
     
@@ -451,6 +453,7 @@ border-radius: 10px;
     background: rgb(54,149,79);
     margin-top: 100px;
     color: #fff;
+    border: solid 2px rgb(54,149,79) ;
 
     
 }
@@ -458,18 +461,21 @@ border-radius: 10px;
     width: 100%;
     height:200px;
     background: rgb(54,149,79);
+    border: solid 2px rgb(54,149,79) ;
 
 }
 .pre{
     text-align: center;
     color: #fff;
     background: rgb(54,149,79);
+    border: solid 2px rgb(54,149,79) ;
 
 }
 .pre1{
     text-align: center;
     color: #ffffff78;
     background: rgb(54,149,79);
+    border: solid 2px rgb(54,149,79) ;
    
 
 }
@@ -477,6 +483,7 @@ border-radius: 10px;
     width: 100%;
     height:80px;
     background: rgb(54,149,79);
+    border: solid 2px rgb(54,149,79) ;
 
 }
 .pre3{
