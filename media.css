@@ -419,5 +419,7 @@
         width: 100%;
         margin-left: 1%;
     }
-     
+     .item1{
+        padding-left: 5%;
+     }
 }

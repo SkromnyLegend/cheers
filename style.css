@@ -33,7 +33,7 @@ body{
     font-size: 14px;
 }
 .item1{
-    padding-left: 25%;
+    padding-left: 20%;
 }
 .btn{
     padding: 2px;
@@ -242,11 +242,9 @@ body{
     height: 2px;
     
 }
-.cheerss::-webkit-scrollbar-thumb{
-    background: rgb(249,138,60);
-    border-radius: 6px;
+
     
-}
+
 .leviy{
     width: 50px;
     height: 50px;
@@ -481,6 +479,7 @@ border-radius: 10px;
     color: #ffffff78;
     background: rgb(54,149,79);
     border: solid 2px rgb(54,149,79) ;
+    font-size: 10px;
    
 
 }
